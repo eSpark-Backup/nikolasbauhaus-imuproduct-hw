@@ -1,1 +1,2 @@
-# nikolasbauhaus-imuproduct-hw
+# IMU Based Product
+#### Client Name: Nikolas Bahaus
